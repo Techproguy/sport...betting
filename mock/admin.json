@@ -1,0 +1,768 @@
+{
+  "admins": [
+    {
+      "id": "adm_001",
+      "name": "David Jackson",
+      "email": "david@technoestro.com",
+      "role": "Finance",
+      "lastLogin": "2026-07-04T13:16:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_002",
+      "name": "Robert Silva",
+      "email": "robert@technoestro.com",
+      "role": "Compliance",
+      "lastLogin": "2026-07-03T13:52:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_003",
+      "name": "Nicole Johnson",
+      "email": "nicole@technoestro.com",
+      "role": "Support",
+      "lastLogin": "2026-07-04T11:29:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "adm_004",
+      "name": "Emily Johnson",
+      "email": "emily@technoestro.com",
+      "role": "Support",
+      "lastLogin": "2026-07-04T17:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_005",
+      "name": "Ashley Gonzalez",
+      "email": "ashley@technoestro.com",
+      "role": "Risk Manager",
+      "lastLogin": "2026-07-03T08:24:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_006",
+      "name": "Jessica Okoye",
+      "email": "jessica@technoestro.com",
+      "role": "Finance",
+      "lastLogin": "2026-07-04T12:04:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_007",
+      "name": "Nicole Ahmed",
+      "email": "nicole@technoestro.com",
+      "role": "Finance",
+      "lastLogin": "2026-07-03T20:52:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_008",
+      "name": "Amanda Williams",
+      "email": "amanda@technoestro.com",
+      "role": "Finance",
+      "lastLogin": "2026-07-03T08:18:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_009",
+      "name": "Chris Wilson",
+      "email": "chris@technoestro.com",
+      "role": "Support",
+      "lastLogin": "2026-07-03T04:04:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "adm_010",
+      "name": "Marcus Miller",
+      "email": "marcus@technoestro.com",
+      "role": "Risk Manager",
+      "lastLogin": "2026-07-04T12:46:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_011",
+      "name": "John Garcia",
+      "email": "john@technoestro.com",
+      "role": "Super Admin",
+      "lastLogin": "2026-07-03T05:34:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_012",
+      "name": "Chris Silva",
+      "email": "chris@technoestro.com",
+      "role": "Super Admin",
+      "lastLogin": "2026-07-04T14:01:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_013",
+      "name": "John Davis",
+      "email": "john@technoestro.com",
+      "role": "Super Admin",
+      "lastLogin": "2026-07-02T17:51:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "adm_014",
+      "name": "Omar Taylor",
+      "email": "omar@technoestro.com",
+      "role": "Risk Manager",
+      "lastLogin": "2026-07-04T00:55:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_015",
+      "name": "Ashley Kim",
+      "email": "ashley@technoestro.com",
+      "role": "Support",
+      "lastLogin": "2026-07-03T00:53:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_016",
+      "name": "Sofia Hernandez",
+      "email": "sofia@technoestro.com",
+      "role": "Super Admin",
+      "lastLogin": "2026-07-04T06:20:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_017",
+      "name": "Diego Johnson",
+      "email": "diego@technoestro.com",
+      "role": "Super Admin",
+      "lastLogin": "2026-07-03T16:29:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "adm_018",
+      "name": "Aisha Patel",
+      "email": "aisha@technoestro.com",
+      "role": "Support",
+      "lastLogin": "2026-07-04T05:53:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_019",
+      "name": "David Rossi",
+      "email": "david@technoestro.com",
+      "role": "Super Admin",
+      "lastLogin": "2026-07-04T13:21:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_020",
+      "name": "Brian Novak",
+      "email": "brian@technoestro.com",
+      "role": "Support",
+      "lastLogin": "2026-07-03T22:48:00.000Z",
+      "status": "inactive"
+    },
+    {
+      "id": "adm_021",
+      "name": "Noah Martin",
+      "email": "noah@technoestro.com",
+      "role": "Finance",
+      "lastLogin": "2026-07-02T22:12:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_022",
+      "name": "Noah Martinez",
+      "email": "noah@technoestro.com",
+      "role": "Support",
+      "lastLogin": "2026-07-04T11:11:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_023",
+      "name": "Chris Hernandez",
+      "email": "chris@technoestro.com",
+      "role": "Support",
+      "lastLogin": "2026-07-03T12:41:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_024",
+      "name": "John Murphy",
+      "email": "john@technoestro.com",
+      "role": "Super Admin",
+      "lastLogin": "2026-07-04T18:17:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "adm_025",
+      "name": "Emily Martinez",
+      "email": "emily@technoestro.com",
+      "role": "Risk Manager",
+      "lastLogin": "2026-07-04T17:52:00.000Z",
+      "status": "active"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud_0001",
+      "actor": "Robert Silva",
+      "action": "Voided bet",
+      "target": "promo_03",
+      "timestamp": "2026-07-04T17:50:00.000Z",
+      "ip": "79.204.251.23"
+    },
+    {
+      "id": "aud_0002",
+      "actor": "John Garcia",
+      "action": "Approved withdrawal",
+      "target": "bet_00219",
+      "timestamp": "2026-07-04T12:07:00.000Z",
+      "ip": "42.180.106.64"
+    },
+    {
+      "id": "aud_0003",
+      "actor": "Marcus Miller",
+      "action": "Adjusted odds",
+      "target": "promo_03",
+      "timestamp": "2026-07-03T21:03:00.000Z",
+      "ip": "131.152.19.199"
+    },
+    {
+      "id": "aud_0004",
+      "actor": "Omar Taylor",
+      "action": "Flagged fraud case",
+      "target": "txn_00320",
+      "timestamp": "2026-07-04T04:13:00.000Z",
+      "ip": "24.193.124.188"
+    },
+    {
+      "id": "aud_0005",
+      "actor": "Robert Silva",
+      "action": "Changed risk limit",
+      "target": "promo_03",
+      "timestamp": "2026-07-01T20:00:00.000Z",
+      "ip": "158.223.226.9"
+    },
+    {
+      "id": "aud_0006",
+      "actor": "Chris Hernandez",
+      "action": "Changed risk limit",
+      "target": "promo_03",
+      "timestamp": "2026-07-01T18:36:00.000Z",
+      "ip": "55.102.47.45"
+    },
+    {
+      "id": "aud_0007",
+      "actor": "Ashley Kim",
+      "action": "Approved withdrawal",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-02T20:45:00.000Z",
+      "ip": "164.119.219.233"
+    },
+    {
+      "id": "aud_0008",
+      "actor": "Sofia Hernandez",
+      "action": "Changed risk limit",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-04T14:08:00.000Z",
+      "ip": "97.205.119.101"
+    },
+    {
+      "id": "aud_0009",
+      "actor": "Chris Wilson",
+      "action": "Suspended user",
+      "target": "usr_0042",
+      "timestamp": "2026-07-02T13:44:00.000Z",
+      "ip": "189.74.169.86"
+    },
+    {
+      "id": "aud_0010",
+      "actor": "Nicole Ahmed",
+      "action": "Voided bet",
+      "target": "evt_0007",
+      "timestamp": "2026-07-03T07:51:00.000Z",
+      "ip": "141.141.7.98"
+    },
+    {
+      "id": "aud_0011",
+      "actor": "John Garcia",
+      "action": "Voided bet",
+      "target": "usr_0042",
+      "timestamp": "2026-07-04T09:02:00.000Z",
+      "ip": "173.250.74.222"
+    },
+    {
+      "id": "aud_0012",
+      "actor": "Robert Silva",
+      "action": "Voided bet",
+      "target": "txn_00320",
+      "timestamp": "2026-07-03T18:25:00.000Z",
+      "ip": "104.104.219.246"
+    },
+    {
+      "id": "aud_0013",
+      "actor": "Marcus Miller",
+      "action": "Flagged fraud case",
+      "target": "txn_00320",
+      "timestamp": "2026-07-03T14:14:00.000Z",
+      "ip": "143.243.49.212"
+    },
+    {
+      "id": "aud_0014",
+      "actor": "Brian Novak",
+      "action": "Exported report",
+      "target": "evt_0007",
+      "timestamp": "2026-07-02T18:50:00.000Z",
+      "ip": "82.38.185.223"
+    },
+    {
+      "id": "aud_0015",
+      "actor": "Nicole Ahmed",
+      "action": "Approved KYC submission",
+      "target": "bet_00219",
+      "timestamp": "2026-07-01T03:51:00.000Z",
+      "ip": "210.61.124.32"
+    },
+    {
+      "id": "aud_0016",
+      "actor": "Brian Novak",
+      "action": "Approved withdrawal",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-01T04:56:00.000Z",
+      "ip": "47.89.106.226"
+    },
+    {
+      "id": "aud_0017",
+      "actor": "Ashley Kim",
+      "action": "Updated promotion",
+      "target": "promo_03",
+      "timestamp": "2026-07-03T21:19:00.000Z",
+      "ip": "127.80.190.112"
+    },
+    {
+      "id": "aud_0018",
+      "actor": "Ashley Kim",
+      "action": "Voided bet",
+      "target": "bet_00219",
+      "timestamp": "2026-07-03T21:31:00.000Z",
+      "ip": "77.41.181.58"
+    },
+    {
+      "id": "aud_0019",
+      "actor": "John Murphy",
+      "action": "Changed risk limit",
+      "target": "promo_03",
+      "timestamp": "2026-07-03T13:45:00.000Z",
+      "ip": "128.230.44.123"
+    },
+    {
+      "id": "aud_0020",
+      "actor": "Ashley Gonzalez",
+      "action": "Approved KYC submission",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-03T08:08:00.000Z",
+      "ip": "26.70.14.94"
+    },
+    {
+      "id": "aud_0021",
+      "actor": "Ashley Gonzalez",
+      "action": "Approved KYC submission",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-01T05:04:00.000Z",
+      "ip": "29.137.124.14"
+    },
+    {
+      "id": "aud_0022",
+      "actor": "Nicole Ahmed",
+      "action": "Updated promotion",
+      "target": "txn_00320",
+      "timestamp": "2026-07-02T13:35:00.000Z",
+      "ip": "176.80.244.186"
+    },
+    {
+      "id": "aud_0023",
+      "actor": "John Davis",
+      "action": "Suspended user",
+      "target": "evt_0007",
+      "timestamp": "2026-07-02T23:20:00.000Z",
+      "ip": "142.137.132.142"
+    },
+    {
+      "id": "aud_0024",
+      "actor": "Diego Johnson",
+      "action": "Adjusted odds",
+      "target": "bet_00219",
+      "timestamp": "2026-07-01T13:05:00.000Z",
+      "ip": "182.40.169.66"
+    },
+    {
+      "id": "aud_0025",
+      "actor": "Ashley Kim",
+      "action": "Changed risk limit",
+      "target": "evt_0007",
+      "timestamp": "2026-07-03T21:13:00.000Z",
+      "ip": "152.243.246.124"
+    },
+    {
+      "id": "aud_0026",
+      "actor": "Ashley Kim",
+      "action": "Approved KYC submission",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-03T06:54:00.000Z",
+      "ip": "28.37.73.74"
+    },
+    {
+      "id": "aud_0027",
+      "actor": "Omar Taylor",
+      "action": "Approved KYC submission",
+      "target": "promo_03",
+      "timestamp": "2026-07-04T02:37:00.000Z",
+      "ip": "72.132.220.251"
+    },
+    {
+      "id": "aud_0028",
+      "actor": "Marcus Miller",
+      "action": "Exported report",
+      "target": "usr_0042",
+      "timestamp": "2026-07-01T08:00:00.000Z",
+      "ip": "162.35.120.107"
+    },
+    {
+      "id": "aud_0029",
+      "actor": "Sofia Hernandez",
+      "action": "Approved KYC submission",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-02T09:43:00.000Z",
+      "ip": "74.118.212.114"
+    },
+    {
+      "id": "aud_0030",
+      "actor": "Robert Silva",
+      "action": "Flagged fraud case",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-02T15:49:00.000Z",
+      "ip": "89.108.239.66"
+    },
+    {
+      "id": "aud_0031",
+      "actor": "Robert Silva",
+      "action": "Updated promotion",
+      "target": "bet_00219",
+      "timestamp": "2026-07-04T15:51:00.000Z",
+      "ip": "135.12.252.18"
+    },
+    {
+      "id": "aud_0032",
+      "actor": "Chris Silva",
+      "action": "Adjusted odds",
+      "target": "usr_0042",
+      "timestamp": "2026-07-03T15:36:00.000Z",
+      "ip": "57.157.177.24"
+    },
+    {
+      "id": "aud_0033",
+      "actor": "Aisha Patel",
+      "action": "Settled market",
+      "target": "promo_03",
+      "timestamp": "2026-07-02T08:44:00.000Z",
+      "ip": "186.96.76.83"
+    },
+    {
+      "id": "aud_0034",
+      "actor": "John Davis",
+      "action": "Approved withdrawal",
+      "target": "promo_03",
+      "timestamp": "2026-07-03T23:02:00.000Z",
+      "ip": "124.80.254.59"
+    },
+    {
+      "id": "aud_0035",
+      "actor": "Omar Taylor",
+      "action": "Changed risk limit",
+      "target": "kyc_0011",
+      "timestamp": "2026-07-01T15:23:00.000Z",
+      "ip": "172.152.162.16"
+    },
+    {
+      "id": "aud_0036",
+      "actor": "John Davis",
+      "action": "Changed risk limit",
+      "target": "usr_0042",
+      "timestamp": "2026-07-03T00:29:00.000Z",
+      "ip": "27.192.120.128"
+    },
+    {
+      "id": "aud_0037",
+      "actor": "Jessica Okoye",
+      "action": "Updated promotion",
+      "target": "usr_0042",
+      "timestamp": "2026-07-02T15:46:00.000Z",
+      "ip": "24.145.133.135"
+    },
+    {
+      "id": "aud_0038",
+      "actor": "Nicole Johnson",
+      "action": "Exported report",
+      "target": "usr_0042",
+      "timestamp": "2026-07-04T09:23:00.000Z",
+      "ip": "99.138.84.199"
+    },
+    {
+      "id": "aud_0039",
+      "actor": "Nicole Ahmed",
+      "action": "Approved withdrawal",
+      "target": "bet_00219",
+      "timestamp": "2026-07-03T09:10:00.000Z",
+      "ip": "129.219.188.96"
+    },
+    {
+      "id": "aud_0040",
+      "actor": "Aisha Patel",
+      "action": "Changed risk limit",
+      "target": "evt_0007",
+      "timestamp": "2026-07-03T07:18:00.000Z",
+      "ip": "109.46.64.199"
+    }
+  ],
+  "fraudCases": [
+    {
+      "id": "frd_0001",
+      "userId": "usr_0077",
+      "userName": "Maria Nakamura",
+      "type": "Arbitrage pattern",
+      "severity": "medium",
+      "detectedAt": "2026-06-29T17:29:00.000Z",
+      "status": "escalated",
+      "detail": "Arbitrage pattern detected across 7 sessions with correlated fingerprints.",
+      "ip": "45.221.147.240",
+      "device": "iPad Air"
+    },
+    {
+      "id": "frd_0002",
+      "userId": "usr_0054",
+      "userName": "Michael Rodriguez",
+      "type": "Multiple accounts",
+      "severity": "critical",
+      "detectedAt": "2026-06-28T11:08:00.000Z",
+      "status": "resolved",
+      "detail": "Multiple accounts detected across 9 sessions with correlated fingerprints.",
+      "ip": "112.116.199.100",
+      "device": "iPad Air"
+    },
+    {
+      "id": "frd_0003",
+      "userId": "usr_0076",
+      "userName": "Priya Nakamura",
+      "type": "Collusion ring",
+      "severity": "high",
+      "detectedAt": "2026-07-01T05:48:00.000Z",
+      "status": "investigating",
+      "detail": "Collusion ring detected across 6 sessions with correlated fingerprints.",
+      "ip": "122.43.25.11",
+      "device": "iPhone 15 Pro"
+    },
+    {
+      "id": "frd_0004",
+      "userId": "usr_0076",
+      "userName": "Priya Nakamura",
+      "type": "Arbitrage pattern",
+      "severity": "critical",
+      "detectedAt": "2026-06-29T11:00:00.000Z",
+      "status": "resolved",
+      "detail": "Arbitrage pattern detected across 6 sessions with correlated fingerprints.",
+      "ip": "101.244.15.141",
+      "device": "Windows 11 / Chrome"
+    },
+    {
+      "id": "frd_0005",
+      "userId": "usr_0005",
+      "userName": "John Thomas",
+      "type": "Collusion ring",
+      "severity": "high",
+      "detectedAt": "2026-07-01T12:32:00.000Z",
+      "status": "escalated",
+      "detail": "Collusion ring detected across 5 sessions with correlated fingerprints.",
+      "ip": "85.16.169.232",
+      "device": "Windows 11 / Chrome"
+    },
+    {
+      "id": "frd_0006",
+      "userId": "usr_0045",
+      "userName": "Sofia Thomas",
+      "type": "Multiple accounts",
+      "severity": "high",
+      "detectedAt": "2026-06-29T05:44:00.000Z",
+      "status": "resolved",
+      "detail": "Multiple accounts detected across 8 sessions with correlated fingerprints.",
+      "ip": "65.108.38.169",
+      "device": "Windows 11 / Chrome"
+    },
+    {
+      "id": "frd_0007",
+      "userId": "usr_0012",
+      "userName": "Daniel Miller",
+      "type": "Structuring deposits",
+      "severity": "critical",
+      "detectedAt": "2026-07-03T22:27:00.000Z",
+      "status": "open",
+      "detail": "Structuring deposits detected across 2 sessions with correlated fingerprints.",
+      "ip": "192.204.83.39",
+      "device": "Samsung S24"
+    },
+    {
+      "id": "frd_0008",
+      "userId": "usr_0024",
+      "userName": "Michael Martin",
+      "type": "VPN / proxy usage",
+      "severity": "critical",
+      "detectedAt": "2026-07-01T14:39:00.000Z",
+      "status": "escalated",
+      "detail": "VPN / proxy usage detected across 4 sessions with correlated fingerprints.",
+      "ip": "61.214.94.146",
+      "device": "iPhone 15 Pro"
+    },
+    {
+      "id": "frd_0009",
+      "userId": "usr_0043",
+      "userName": "Sofia Williams",
+      "type": "Card testing",
+      "severity": "high",
+      "detectedAt": "2026-07-04T09:30:00.000Z",
+      "status": "resolved",
+      "detail": "Card testing detected across 7 sessions with correlated fingerprints.",
+      "ip": "146.232.0.103",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "frd_0010",
+      "userId": "usr_0038",
+      "userName": "Maria Williams",
+      "type": "Bonus abuse",
+      "severity": "critical",
+      "detectedAt": "2026-07-01T08:59:00.000Z",
+      "status": "escalated",
+      "detail": "Bonus abuse detected across 5 sessions with correlated fingerprints.",
+      "ip": "115.103.82.156",
+      "device": "iPad Air"
+    },
+    {
+      "id": "frd_0011",
+      "userId": "usr_0036",
+      "userName": "Anthony Johnson",
+      "type": "Bonus abuse",
+      "severity": "medium",
+      "detectedAt": "2026-06-30T01:16:00.000Z",
+      "status": "escalated",
+      "detail": "Bonus abuse detected across 7 sessions with correlated fingerprints.",
+      "ip": "167.137.88.155",
+      "device": "iPad Air"
+    },
+    {
+      "id": "frd_0012",
+      "userId": "usr_0062",
+      "userName": "Kevin Patel",
+      "type": "Card testing",
+      "severity": "high",
+      "detectedAt": "2026-07-04T14:01:00.000Z",
+      "status": "open",
+      "detail": "Card testing detected across 2 sessions with correlated fingerprints.",
+      "ip": "78.50.140.146",
+      "device": "Samsung S24"
+    },
+    {
+      "id": "frd_0013",
+      "userId": "usr_0056",
+      "userName": "Megan Silva",
+      "type": "Location mismatch",
+      "severity": "high",
+      "detectedAt": "2026-07-01T21:23:00.000Z",
+      "status": "investigating",
+      "detail": "Location mismatch detected across 8 sessions with correlated fingerprints.",
+      "ip": "51.156.165.45",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "frd_0014",
+      "userId": "usr_0071",
+      "userName": "Sofia Wilson",
+      "type": "Bonus abuse",
+      "severity": "critical",
+      "detectedAt": "2026-07-03T22:55:00.000Z",
+      "status": "resolved",
+      "detail": "Bonus abuse detected across 9 sessions with correlated fingerprints.",
+      "ip": "120.177.213.251",
+      "device": "iPhone 15 Pro"
+    },
+    {
+      "id": "frd_0015",
+      "userId": "usr_0035",
+      "userName": "Yuki Wilson",
+      "type": "Multiple accounts",
+      "severity": "low",
+      "detectedAt": "2026-06-28T21:25:00.000Z",
+      "status": "investigating",
+      "detail": "Multiple accounts detected across 3 sessions with correlated fingerprints.",
+      "ip": "187.42.58.209",
+      "device": "MacBook Pro"
+    },
+    {
+      "id": "frd_0016",
+      "userId": "usr_0050",
+      "userName": "Michael Lopez",
+      "type": "VPN / proxy usage",
+      "severity": "medium",
+      "detectedAt": "2026-06-28T02:51:00.000Z",
+      "status": "escalated",
+      "detail": "VPN / proxy usage detected across 3 sessions with correlated fingerprints.",
+      "ip": "175.188.120.58",
+      "device": "Samsung S24"
+    },
+    {
+      "id": "frd_0017",
+      "userId": "usr_0021",
+      "userName": "Michael Nakamura",
+      "type": "Collusion ring",
+      "severity": "high",
+      "detectedAt": "2026-06-27T12:06:00.000Z",
+      "status": "resolved",
+      "detail": "Collusion ring detected across 2 sessions with correlated fingerprints.",
+      "ip": "155.159.86.207",
+      "device": "iPad Air"
+    },
+    {
+      "id": "frd_0018",
+      "userId": "usr_0076",
+      "userName": "Priya Nakamura",
+      "type": "Card testing",
+      "severity": "high",
+      "detectedAt": "2026-07-04T17:03:00.000Z",
+      "status": "investigating",
+      "detail": "Card testing detected across 9 sessions with correlated fingerprints.",
+      "ip": "207.166.49.34",
+      "device": "iPhone 15 Pro"
+    },
+    {
+      "id": "frd_0019",
+      "userId": "usr_0004",
+      "userName": "Aisha Rodriguez",
+      "type": "Bonus abuse",
+      "severity": "critical",
+      "detectedAt": "2026-06-29T12:29:00.000Z",
+      "status": "open",
+      "detail": "Bonus abuse detected across 8 sessions with correlated fingerprints.",
+      "ip": "185.84.37.37",
+      "device": "Windows 11 / Chrome"
+    },
+    {
+      "id": "frd_0020",
+      "userId": "usr_0051",
+      "userName": "Maria Martin",
+      "type": "Arbitrage pattern",
+      "severity": "low",
+      "detectedAt": "2026-06-30T18:56:00.000Z",
+      "status": "resolved",
+      "detail": "Arbitrage pattern detected across 3 sessions with correlated fingerprints.",
+      "ip": "198.34.152.104",
+      "device": "iPhone 15 Pro"
+    }
+  ]
+}

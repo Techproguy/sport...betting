@@ -1,0 +1,490 @@
+{
+  "series": {
+    "revenue": [
+      {
+        "month": "Jan",
+        "handle": 8495187,
+        "ggr": 378917,
+        "revenue": 542061,
+        "users": 4200
+      },
+      {
+        "month": "Feb",
+        "handle": 2884735,
+        "ggr": 652850,
+        "revenue": 335387,
+        "users": 4594
+      },
+      {
+        "month": "Mar",
+        "handle": 3773431,
+        "ggr": 415796,
+        "revenue": 167508,
+        "users": 5400
+      },
+      {
+        "month": "Apr",
+        "handle": 5007304,
+        "ggr": 312705,
+        "revenue": 531737,
+        "users": 5421
+      },
+      {
+        "month": "May",
+        "handle": 4961273,
+        "ggr": 613466,
+        "revenue": 214923,
+        "users": 7624
+      },
+      {
+        "month": "Jun",
+        "handle": 5081930,
+        "ggr": 249712,
+        "revenue": 345336,
+        "users": 6040
+      },
+      {
+        "month": "Jul",
+        "handle": 3387166,
+        "ggr": 575472,
+        "revenue": 498168,
+        "users": 7794
+      },
+      {
+        "month": "Aug",
+        "handle": 5378589,
+        "ggr": 463985,
+        "revenue": 551174,
+        "users": 6685
+      },
+      {
+        "month": "Sep",
+        "handle": 5087900,
+        "ggr": 253700,
+        "revenue": 427444,
+        "users": 11000
+      },
+      {
+        "month": "Oct",
+        "handle": 3098605,
+        "ggr": 706773,
+        "revenue": 180332,
+        "users": 8133
+      },
+      {
+        "month": "Nov",
+        "handle": 7117605,
+        "ggr": 225854,
+        "revenue": 194841,
+        "users": 10800
+      },
+      {
+        "month": "Dec",
+        "handle": 4804399,
+        "ggr": 548665,
+        "revenue": 427690,
+        "users": 8919
+      }
+    ],
+    "daily": [
+      {
+        "day": "1",
+        "deposits": 166798,
+        "withdrawals": 102780,
+        "bets": 4379
+      },
+      {
+        "day": "2",
+        "deposits": 125868,
+        "withdrawals": 90003,
+        "bets": 5327
+      },
+      {
+        "day": "3",
+        "deposits": 168023,
+        "withdrawals": 79575,
+        "bets": 7777
+      },
+      {
+        "day": "4",
+        "deposits": 179022,
+        "withdrawals": 74053,
+        "bets": 4408
+      },
+      {
+        "day": "5",
+        "deposits": 205958,
+        "withdrawals": 79547,
+        "bets": 5930
+      },
+      {
+        "day": "6",
+        "deposits": 175773,
+        "withdrawals": 37193,
+        "bets": 11342
+      },
+      {
+        "day": "7",
+        "deposits": 123564,
+        "withdrawals": 147175,
+        "bets": 5972
+      },
+      {
+        "day": "8",
+        "deposits": 144535,
+        "withdrawals": 138551,
+        "bets": 5328
+      },
+      {
+        "day": "9",
+        "deposits": 202941,
+        "withdrawals": 94379,
+        "bets": 4827
+      },
+      {
+        "day": "10",
+        "deposits": 184347,
+        "withdrawals": 113401,
+        "bets": 4970
+      },
+      {
+        "day": "11",
+        "deposits": 145038,
+        "withdrawals": 62139,
+        "bets": 6679
+      },
+      {
+        "day": "12",
+        "deposits": 216215,
+        "withdrawals": 102234,
+        "bets": 12647
+      },
+      {
+        "day": "13",
+        "deposits": 96401,
+        "withdrawals": 32750,
+        "bets": 3083
+      },
+      {
+        "day": "14",
+        "deposits": 72354,
+        "withdrawals": 147510,
+        "bets": 8444
+      },
+      {
+        "day": "15",
+        "deposits": 152122,
+        "withdrawals": 94506,
+        "bets": 7135
+      },
+      {
+        "day": "16",
+        "deposits": 203012,
+        "withdrawals": 84214,
+        "bets": 6080
+      },
+      {
+        "day": "17",
+        "deposits": 129829,
+        "withdrawals": 67115,
+        "bets": 11496
+      },
+      {
+        "day": "18",
+        "deposits": 123297,
+        "withdrawals": 143746,
+        "bets": 5989
+      },
+      {
+        "day": "19",
+        "deposits": 117353,
+        "withdrawals": 47081,
+        "bets": 12800
+      },
+      {
+        "day": "20",
+        "deposits": 131192,
+        "withdrawals": 41531,
+        "bets": 8094
+      },
+      {
+        "day": "21",
+        "deposits": 105288,
+        "withdrawals": 107881,
+        "bets": 11251
+      },
+      {
+        "day": "22",
+        "deposits": 135076,
+        "withdrawals": 120343,
+        "bets": 9035
+      },
+      {
+        "day": "23",
+        "deposits": 194378,
+        "withdrawals": 89589,
+        "bets": 6425
+      },
+      {
+        "day": "24",
+        "deposits": 173479,
+        "withdrawals": 60611,
+        "bets": 5190
+      },
+      {
+        "day": "25",
+        "deposits": 216417,
+        "withdrawals": 58057,
+        "bets": 6352
+      },
+      {
+        "day": "26",
+        "deposits": 128524,
+        "withdrawals": 129452,
+        "bets": 5940
+      },
+      {
+        "day": "27",
+        "deposits": 173905,
+        "withdrawals": 30298,
+        "bets": 12957
+      },
+      {
+        "day": "28",
+        "deposits": 137170,
+        "withdrawals": 49709,
+        "bets": 7993
+      },
+      {
+        "day": "29",
+        "deposits": 144461,
+        "withdrawals": 141204,
+        "bets": 8710
+      },
+      {
+        "day": "30",
+        "deposits": 122830,
+        "withdrawals": 143989,
+        "bets": 8350
+      }
+    ],
+    "sportVolume": [
+      {
+        "sport": "NFL",
+        "volume": 2152600,
+        "exposure": 207471
+      },
+      {
+        "sport": "NBA",
+        "volume": 940392,
+        "exposure": 482210
+      },
+      {
+        "sport": "MLB",
+        "volume": 1372372,
+        "exposure": 422393
+      },
+      {
+        "sport": "NHL",
+        "volume": 1084956,
+        "exposure": 288554
+      },
+      {
+        "sport": "Soccer",
+        "volume": 2313112,
+        "exposure": 58601
+      },
+      {
+        "sport": "Tennis",
+        "volume": 2059407,
+        "exposure": 579529
+      },
+      {
+        "sport": "MMA",
+        "volume": 2159720,
+        "exposure": 211957
+      },
+      {
+        "sport": "Boxing",
+        "volume": 783131,
+        "exposure": 375736
+      },
+      {
+        "sport": "Golf",
+        "volume": 2177058,
+        "exposure": 575158
+      },
+      {
+        "sport": "Cricket",
+        "volume": 1011187,
+        "exposure": 675535
+      }
+    ],
+    "hourly": [
+      {
+        "hour": "0:00",
+        "bets": 1929
+      },
+      {
+        "hour": "1:00",
+        "bets": 2892
+      },
+      {
+        "hour": "2:00",
+        "bets": 2033
+      },
+      {
+        "hour": "3:00",
+        "bets": 1412
+      },
+      {
+        "hour": "4:00",
+        "bets": 420
+      },
+      {
+        "hour": "5:00",
+        "bets": 2719
+      },
+      {
+        "hour": "6:00",
+        "bets": 3101
+      },
+      {
+        "hour": "7:00",
+        "bets": 1382
+      },
+      {
+        "hour": "8:00",
+        "bets": 2636
+      },
+      {
+        "hour": "9:00",
+        "bets": 1781
+      },
+      {
+        "hour": "10:00",
+        "bets": 1771
+      },
+      {
+        "hour": "11:00",
+        "bets": 2738
+      },
+      {
+        "hour": "12:00",
+        "bets": 1095
+      },
+      {
+        "hour": "13:00",
+        "bets": 1910
+      },
+      {
+        "hour": "14:00",
+        "bets": 1863
+      },
+      {
+        "hour": "15:00",
+        "bets": 984
+      },
+      {
+        "hour": "16:00",
+        "bets": 2629
+      },
+      {
+        "hour": "17:00",
+        "bets": 2000
+      },
+      {
+        "hour": "18:00",
+        "bets": 2317
+      },
+      {
+        "hour": "19:00",
+        "bets": 2315
+      },
+      {
+        "hour": "20:00",
+        "bets": 314
+      },
+      {
+        "hour": "21:00",
+        "bets": 768
+      },
+      {
+        "hour": "22:00",
+        "bets": 919
+      },
+      {
+        "hour": "23:00",
+        "bets": 1166
+      }
+    ]
+  },
+  "promotions": [
+    {
+      "id": "promo_01",
+      "title": "Bet $5, Get $200 in Bonus Bets",
+      "subtitle": "New players — instant on first bet",
+      "tag": "WELCOME",
+      "color": "#00D66F",
+      "cta": "Claim Offer",
+      "value": "$200",
+      "terms": "21+. Terms apply. Available in eligible states. Gambling problem? Call 1-800-GAMBLER.",
+      "featured": true
+    },
+    {
+      "id": "promo_02",
+      "title": "No Sweat First Bet up to $1,500",
+      "subtitle": "Get a refund if your first bet loses",
+      "tag": "RISK-FREE",
+      "color": "#3B82F6",
+      "cta": "Opt In",
+      "value": "$1,500",
+      "terms": "21+. Terms apply. Available in eligible states. Gambling problem? Call 1-800-GAMBLER.",
+      "featured": true
+    },
+    {
+      "id": "promo_03",
+      "title": "Parlay Insurance",
+      "subtitle": "One leg away? Get your stake back",
+      "tag": "PARLAY",
+      "color": "#A855F7",
+      "cta": "Learn More",
+      "value": "Up to $25",
+      "terms": "21+. Terms apply. Available in eligible states. Gambling problem? Call 1-800-GAMBLER.",
+      "featured": true
+    },
+    {
+      "id": "promo_04",
+      "title": "NBA Finals Odds Boost",
+      "subtitle": "Boosted lines on marquee matchups",
+      "tag": "BOOST",
+      "color": "#FFC107",
+      "cta": "View Boosts",
+      "value": "+40%",
+      "terms": "21+. Terms apply. Available in eligible states. Gambling problem? Call 1-800-GAMBLER.",
+      "featured": false
+    },
+    {
+      "id": "promo_05",
+      "title": "Refer a Friend",
+      "subtitle": "You both get $50 in bonus bets",
+      "tag": "REFERRAL",
+      "color": "#22D3EE",
+      "cta": "Invite",
+      "value": "$50",
+      "terms": "21+. Terms apply. Available in eligible states. Gambling problem? Call 1-800-GAMBLER.",
+      "featured": false
+    },
+    {
+      "id": "promo_06",
+      "title": "Same Game Parlay Profit Boost",
+      "subtitle": "Every SGP, every sport",
+      "tag": "SGP",
+      "color": "#EC4899",
+      "cta": "Activate",
+      "value": "+50%",
+      "terms": "21+. Terms apply. Available in eligible states. Gambling problem? Call 1-800-GAMBLER.",
+      "featured": false
+    }
+  ]
+}

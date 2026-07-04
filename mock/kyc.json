@@ -1,0 +1,561 @@
+[
+  {
+    "id": "kyc_0001",
+    "userId": "usr_0091",
+    "userName": "David Thomas",
+    "submittedAt": "2026-06-30T04:04:00.000Z",
+    "status": "rejected",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0002",
+    "userId": "usr_0047",
+    "userName": "Elizabeth Nakamura",
+    "submittedAt": "2026-07-02T22:37:00.000Z",
+    "status": "approved",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0003",
+    "userId": "usr_0002",
+    "userName": "Ashley Wilson",
+    "submittedAt": "2026-06-29T14:10:00.000Z",
+    "status": "rejected",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0004",
+    "userId": "usr_0032",
+    "userName": "Omar Anderson",
+    "submittedAt": "2026-07-01T18:09:00.000Z",
+    "status": "approved",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": [
+      "PEP match",
+      "Underage risk"
+    ]
+  },
+  {
+    "id": "kyc_0005",
+    "userId": "usr_0063",
+    "userName": "Sarah Brown",
+    "submittedAt": "2026-07-03T08:58:00.000Z",
+    "status": "rejected",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": [
+      "Address mismatch",
+      "Underage risk"
+    ]
+  },
+  {
+    "id": "kyc_0006",
+    "userId": "usr_0009",
+    "userName": "Aisha Anderson",
+    "submittedAt": "2026-07-02T04:24:00.000Z",
+    "status": "pending",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0007",
+    "userId": "usr_0014",
+    "userName": "Ashley Ahmed",
+    "submittedAt": "2026-07-02T22:59:00.000Z",
+    "status": "rejected",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0008",
+    "userId": "usr_0056",
+    "userName": "Megan Silva",
+    "submittedAt": "2026-06-30T05:18:00.000Z",
+    "status": "pending",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0009",
+    "userId": "usr_0054",
+    "userName": "Michael Rodriguez",
+    "submittedAt": "2026-07-03T23:40:00.000Z",
+    "status": "pending",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": [
+      "VPN detected"
+    ]
+  },
+  {
+    "id": "kyc_0010",
+    "userId": "usr_0081",
+    "userName": "Anthony Anderson",
+    "submittedAt": "2026-07-02T03:48:00.000Z",
+    "status": "pending",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0011",
+    "userId": "usr_0086",
+    "userName": "Noah Brown",
+    "submittedAt": "2026-07-01T16:53:00.000Z",
+    "status": "rejected",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0012",
+    "userId": "usr_0091",
+    "userName": "David Thomas",
+    "submittedAt": "2026-07-04T01:11:00.000Z",
+    "status": "rejected",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": [
+      "Underage risk"
+    ]
+  },
+  {
+    "id": "kyc_0013",
+    "userId": "usr_0069",
+    "userName": "John Martinez",
+    "submittedAt": "2026-06-29T05:18:00.000Z",
+    "status": "pending",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": [
+      "Address mismatch",
+      "PEP match"
+    ]
+  },
+  {
+    "id": "kyc_0014",
+    "userId": "usr_0009",
+    "userName": "Aisha Anderson",
+    "submittedAt": "2026-07-01T01:05:00.000Z",
+    "status": "pending",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0015",
+    "userId": "usr_0036",
+    "userName": "Anthony Johnson",
+    "submittedAt": "2026-06-29T19:03:00.000Z",
+    "status": "approved",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0016",
+    "userId": "usr_0014",
+    "userName": "Ashley Ahmed",
+    "submittedAt": "2026-06-29T13:47:00.000Z",
+    "status": "approved",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0017",
+    "userId": "usr_0072",
+    "userName": "Aisha Kim",
+    "submittedAt": "2026-07-01T21:22:00.000Z",
+    "status": "approved",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0018",
+    "userId": "usr_0026",
+    "userName": "Elizabeth Johnson",
+    "submittedAt": "2026-07-03T08:13:00.000Z",
+    "status": "rejected",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0019",
+    "userId": "usr_0036",
+    "userName": "Anthony Johnson",
+    "submittedAt": "2026-06-29T12:05:00.000Z",
+    "status": "rejected",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": [
+      "VPN detected",
+      "Underage risk"
+    ]
+  },
+  {
+    "id": "kyc_0020",
+    "userId": "usr_0004",
+    "userName": "Aisha Rodriguez",
+    "submittedAt": "2026-06-30T20:28:00.000Z",
+    "status": "pending",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": [
+      "Selfie low confidence"
+    ]
+  },
+  {
+    "id": "kyc_0021",
+    "userId": "usr_0087",
+    "userName": "Robert Patel",
+    "submittedAt": "2026-07-03T12:28:00.000Z",
+    "status": "approved",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": [
+      "PEP match",
+      "VPN detected"
+    ]
+  },
+  {
+    "id": "kyc_0022",
+    "userId": "usr_0044",
+    "userName": "Anthony Smith",
+    "submittedAt": "2026-07-02T01:37:00.000Z",
+    "status": "pending",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": [
+      "Underage risk",
+      "Duplicate device"
+    ]
+  },
+  {
+    "id": "kyc_0023",
+    "userId": "usr_0055",
+    "userName": "Chloe Garcia",
+    "submittedAt": "2026-07-03T12:55:00.000Z",
+    "status": "rejected",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0024",
+    "userId": "usr_0065",
+    "userName": "Emily Patel",
+    "submittedAt": "2026-07-03T10:51:00.000Z",
+    "status": "pending",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0025",
+    "userId": "usr_0095",
+    "userName": "Sofia Lopez",
+    "submittedAt": "2026-07-01T21:08:00.000Z",
+    "status": "rejected",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0026",
+    "userId": "usr_0049",
+    "userName": "Diego Davis",
+    "submittedAt": "2026-06-30T12:27:00.000Z",
+    "status": "pending",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": [
+      "Selfie low confidence",
+      "Duplicate device"
+    ]
+  },
+  {
+    "id": "kyc_0027",
+    "userId": "usr_0063",
+    "userName": "Sarah Brown",
+    "submittedAt": "2026-06-30T09:51:00.000Z",
+    "status": "rejected",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0028",
+    "userId": "usr_0046",
+    "userName": "Yuki Thomas",
+    "submittedAt": "2026-06-29T19:23:00.000Z",
+    "status": "rejected",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": [
+      "VPN detected",
+      "Underage risk"
+    ]
+  },
+  {
+    "id": "kyc_0029",
+    "userId": "usr_0021",
+    "userName": "Michael Nakamura",
+    "submittedAt": "2026-06-30T20:48:00.000Z",
+    "status": "rejected",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0030",
+    "userId": "usr_0011",
+    "userName": "David Okoye",
+    "submittedAt": "2026-07-02T22:45:00.000Z",
+    "status": "pending",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": [
+      "Address mismatch",
+      "Selfie low confidence"
+    ]
+  },
+  {
+    "id": "kyc_0031",
+    "userId": "usr_0031",
+    "userName": "Robert Rodriguez",
+    "submittedAt": "2026-07-03T00:53:00.000Z",
+    "status": "pending",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": [
+      "Address mismatch",
+      "Selfie low confidence"
+    ]
+  },
+  {
+    "id": "kyc_0032",
+    "userId": "usr_0052",
+    "userName": "Ashley Miller",
+    "submittedAt": "2026-07-03T08:55:00.000Z",
+    "status": "approved",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0033",
+    "userId": "usr_0078",
+    "userName": "Sofia Kim",
+    "submittedAt": "2026-06-30T19:00:00.000Z",
+    "status": "rejected",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": [
+      "Address mismatch"
+    ]
+  },
+  {
+    "id": "kyc_0034",
+    "userId": "usr_0084",
+    "userName": "Sarah Gonzalez",
+    "submittedAt": "2026-07-03T17:25:00.000Z",
+    "status": "pending",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0035",
+    "userId": "usr_0065",
+    "userName": "Emily Patel",
+    "submittedAt": "2026-06-30T18:21:00.000Z",
+    "status": "approved",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0036",
+    "userId": "usr_0088",
+    "userName": "Priya Hernandez",
+    "submittedAt": "2026-06-30T13:27:00.000Z",
+    "status": "pending",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": [
+      "Underage risk",
+      "VPN detected"
+    ]
+  },
+  {
+    "id": "kyc_0037",
+    "userId": "usr_0011",
+    "userName": "David Okoye",
+    "submittedAt": "2026-07-03T13:13:00.000Z",
+    "status": "rejected",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0038",
+    "userId": "usr_0053",
+    "userName": "Elizabeth Lopez",
+    "submittedAt": "2026-06-29T05:22:00.000Z",
+    "status": "pending",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": [
+      "PEP match",
+      "Duplicate device"
+    ]
+  },
+  {
+    "id": "kyc_0039",
+    "userId": "usr_0060",
+    "userName": "Daniel Hernandez",
+    "submittedAt": "2026-07-04T15:41:00.000Z",
+    "status": "approved",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0040",
+    "userId": "usr_0100",
+    "userName": "Lauren Anderson",
+    "submittedAt": "2026-06-30T06:12:00.000Z",
+    "status": "pending",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0041",
+    "userId": "usr_0053",
+    "userName": "Elizabeth Lopez",
+    "submittedAt": "2026-07-02T15:43:00.000Z",
+    "status": "rejected",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": [
+      "Duplicate device",
+      "Address mismatch"
+    ]
+  },
+  {
+    "id": "kyc_0042",
+    "userId": "usr_0005",
+    "userName": "John Thomas",
+    "submittedAt": "2026-07-03T15:29:00.000Z",
+    "status": "pending",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0043",
+    "userId": "usr_0044",
+    "userName": "Anthony Smith",
+    "submittedAt": "2026-06-29T21:56:00.000Z",
+    "status": "approved",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0044",
+    "userId": "usr_0034",
+    "userName": "Ashley Garcia",
+    "submittedAt": "2026-06-30T18:23:00.000Z",
+    "status": "approved",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": [
+      "Selfie low confidence",
+      "VPN detected"
+    ]
+  },
+  {
+    "id": "kyc_0045",
+    "userId": "usr_0046",
+    "userName": "Yuki Thomas",
+    "submittedAt": "2026-06-30T05:03:00.000Z",
+    "status": "approved",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": [
+      "Selfie low confidence",
+      "VPN detected"
+    ]
+  },
+  {
+    "id": "kyc_0046",
+    "userId": "usr_0009",
+    "userName": "Aisha Anderson",
+    "submittedAt": "2026-07-01T01:19:00.000Z",
+    "status": "approved",
+    "documentType": "Driver's License",
+    "country": "United States",
+    "riskFlags": [
+      "Selfie low confidence"
+    ]
+  },
+  {
+    "id": "kyc_0047",
+    "userId": "usr_0094",
+    "userName": "Diego Nakamura",
+    "submittedAt": "2026-06-29T14:05:00.000Z",
+    "status": "rejected",
+    "documentType": "Military ID",
+    "country": "United States",
+    "riskFlags": []
+  },
+  {
+    "id": "kyc_0048",
+    "userId": "usr_0079",
+    "userName": "Michael Thomas",
+    "submittedAt": "2026-07-04T14:54:00.000Z",
+    "status": "pending",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": [
+      "Address mismatch"
+    ]
+  },
+  {
+    "id": "kyc_0049",
+    "userId": "usr_0079",
+    "userName": "Michael Thomas",
+    "submittedAt": "2026-06-29T21:16:00.000Z",
+    "status": "approved",
+    "documentType": "State ID",
+    "country": "United States",
+    "riskFlags": [
+      "Address mismatch"
+    ]
+  },
+  {
+    "id": "kyc_0050",
+    "userId": "usr_0100",
+    "userName": "Lauren Anderson",
+    "submittedAt": "2026-06-30T09:03:00.000Z",
+    "status": "pending",
+    "documentType": "Passport",
+    "country": "United States",
+    "riskFlags": []
+  }
+]

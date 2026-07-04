@@ -1,0 +1,111 @@
+{
+  "account": {
+    "id": "usr_0001",
+    "name": "Alex Morgan",
+    "email": "alex.morgan@email.com",
+    "phone": "+1 (201) 555-0142",
+    "avatar": "",
+    "country": "United States",
+    "state": "NJ",
+    "balance": 4820.5,
+    "pendingBalance": 250,
+    "vip": "Platinum",
+    "kycStatus": "approved",
+    "memberSince": "Mar 2024"
+  },
+  "paymentMethods": [
+    {
+      "id": "pm_1",
+      "type": "Visa",
+      "last4": "4242",
+      "default": true,
+      "expiry": "08/28"
+    },
+    {
+      "id": "pm_2",
+      "type": "Mastercard",
+      "last4": "5588",
+      "default": false,
+      "expiry": "11/27"
+    },
+    {
+      "id": "pm_3",
+      "type": "ACH",
+      "bank": "Chase",
+      "last4": "1234",
+      "default": false
+    },
+    {
+      "id": "pm_4",
+      "type": "PayPal",
+      "email": "alex.morgan@email.com",
+      "default": false
+    }
+  ],
+  "notifications": [
+    {
+      "title": "Bet won! 🎉",
+      "body": "Your $50 parlay on Lakers ML hit. $412.50 credited.",
+      "type": "bet",
+      "id": "ntf_1",
+      "read": false,
+      "createdAt": "2026-07-04T04:38:00.000Z"
+    },
+    {
+      "title": "Deposit successful",
+      "body": "$250 added via Visa •••• 4242.",
+      "type": "wallet",
+      "id": "ntf_2",
+      "read": false,
+      "createdAt": "2026-07-03T08:45:00.000Z"
+    },
+    {
+      "title": "Odds boost live",
+      "body": "Chiefs -3.5 boosted to +140 — 2 hours left.",
+      "type": "promo",
+      "id": "ntf_3",
+      "read": false,
+      "createdAt": "2026-07-03T19:06:00.000Z"
+    },
+    {
+      "title": "New login detected",
+      "body": "Chrome on macOS · Newark, NJ. Was this you?",
+      "type": "security",
+      "id": "ntf_4",
+      "read": false,
+      "createdAt": "2026-07-03T19:32:00.000Z"
+    },
+    {
+      "title": "Withdrawal processing",
+      "body": "Your $1,000 ACH withdrawal is on the way.",
+      "type": "wallet",
+      "id": "ntf_5",
+      "read": true,
+      "createdAt": "2026-07-02T14:30:00.000Z"
+    },
+    {
+      "title": "Cash out available",
+      "body": "Cash out your live bet on Celtics for $88.20.",
+      "type": "bet",
+      "id": "ntf_6",
+      "read": true,
+      "createdAt": "2026-07-03T20:21:00.000Z"
+    },
+    {
+      "title": "Weekend free bet",
+      "body": "$25 free bet dropped into your account.",
+      "type": "promo",
+      "id": "ntf_7",
+      "read": true,
+      "createdAt": "2026-07-02T23:35:00.000Z"
+    },
+    {
+      "title": "KYC approved",
+      "body": "Your identity is verified. Full limits unlocked.",
+      "type": "system",
+      "id": "ntf_8",
+      "read": true,
+      "createdAt": "2026-07-04T07:12:00.000Z"
+    }
+  ]
+}
